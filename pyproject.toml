@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Local-first agent workspace for knowledge, tasks, documents and verifiable workflows · Локальная агентная система для знаний, задач и проверяемых процессов · t.me/romarayt"
 requires-python = ">=3.10"
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
